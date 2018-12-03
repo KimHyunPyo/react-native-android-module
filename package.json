@@ -1,0 +1,19 @@
+{
+  "name": "react-native-android-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimHyunPyo/react-native-android-module.git"
+  },
+  "author": "KimHyunPyo <khp915@nate.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KimHyunPyo/react-native-android-module/issues"
+  },
+  "homepage": "https://github.com/KimHyunPyo/react-native-android-module#readme"
+}
